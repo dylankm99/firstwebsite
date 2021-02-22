@@ -1,0 +1,70 @@
+body {
+    background:url("../images/menubackground.jpg") ;
+ background-size: 100% 106%;
+ background-repeat: no-repeat;
+}
+
+
+h1{
+color: #566266;
+font-family: 'Great Vibes', cursive;
+font-size: 125px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+margin-top: 150px;
+font-weight: 400;
+margin-bottom: 0;
+}
+
+h2{
+    color:#566266;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 55px;
+    font-weight: 700px;
+    margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+text-align: center;
+margin-top: 60px;
+}
+
+a {
+    color: #566266;
+    text-decoration: none;
+    font-family: 'Frank Ruhl Libre', serif; 
+    font-size: 25px;
+    font-weight: 700;
+   text-align: center;
+   
+ 
+ }
+
+
+
+ ul{
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+    margin-top: 50px;
+
+}
+  
+ p{
+       font-family: 'Lora', serif;
+       color: #566266;
+       font-size: 15px;
+       text-align: center;
+      
+       
+
+   }
+   
+   footer{
+    font-family: 'Lora', serif;
+       color: #566266;
+       font-size: 10px;
+    text-align: center;
+    margin-top: 100px;
+
+   }
