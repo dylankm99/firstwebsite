@@ -1,0 +1,72 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;}
+    
+
+    #theshow-patrons{
+        font-family: 'Great Vibes', cursive;
+        font-size: 45px;  
+        color: white;
+        text-decoration: none;
+        padding-left: 2%;
+        padding-right: 1%;
+        margin-top: 2%;
+        
+
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+   
+
+    div.patronsnav a{
+
+        font-family: 'Frank Ruhl Libre', serif;
+    font-size: 20px;
+    font-weight: 400px;
+    float: right;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-bottom: 3%;
+    text-decoration: none;
+     color: white;
+     
+    
+    }
+           
+    div.patronsnav{
+        margin-right: 3%;
+        
+    }
+    
+        .carousel-inner {
+            height: 70vh;
+            width: 50vh;
+      margin-left: 35vw;
+      margin-right: 40vw;
+      margin-top: 10vh;
+      
+        }
+
+        .carousel-control-prev{
+            margin-left: 29%;
+            margin-right: 70%;
+           
+        }
+
+        .carousel-control-next{
+                margin-left: 66%;
+                margin-right: 33.7%;
+               
+        }
+
+        #theshownoise{
+            margin-left: 1%;
+        }
+      
